@@ -1,9 +1,11 @@
-# furtivus
+
+![logo](./logo/logo.png "furtivus logo")
 
 > __Furtivus__:
 
 > *From the Latin, furtivus, meaning secret, hidden.*
 
+# furtivus
 
 There's a lot of ways to manage your dotfiles in your computer. Let's get a
 common and safe one: you make your git dotfiles repository based on a folder

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.48.4 r9939"
+   version="1.1"
+   id="svg2"
+   height="1052.3622047"
+   width="744.09448819"
+   sodipodi:docname="furtivus.svg">
+  <title
+     id="title4750">furtivus</title>
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect2991"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 53.801746,369.07999 534.789364,0"
+       bendpath2="m 588.59111,369.07999 0,316.35428"
+       bendpath3="m 53.801746,685.43427 534.789364,0"
+       bendpath4="m 53.801746,369.07999 0,316.35428" />
+    <filter
+       inkscape:collect="always"
+       id="filter4091">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5931562"
+         id="feGaussianBlur4093" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4599"
+       x="-0.021697901"
+       width="1.0433958"
+       y="-0.10561727"
+       height="1.2112345">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.277069"
+         id="feGaussianBlur4601" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="275.49847"
+     inkscape:cy="582.00265"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>furtivus</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:date>2013-09-23</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>joe di castro</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>joe di castro</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>furtivus logo</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="terminal"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#fff6d5;fill-opacity:1;stroke:none"
+       id="rect4099"
+       width="145.45993"
+       height="203.34578"
+       x="214.37393"
+       y="424.18323"
+       inkscape:export-filename="/home/joedicastro/code/furtivus/logo/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="249.64011"
+       y="485.82977"
+       id="text3172"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3174"
+         x="249.64011"
+         y="485.82977" /><tspan
+         sodipodi:role="line"
+         id="tspan3176"
+         x="249.64011"
+         y="500.82977" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3200"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3202"><rect
+           id="rect3204"
+           width="12.914943"
+           height="33.671101"
+           x="190.03416"
+           y="350.3428" /></flowRegion><flowPara
+         id="flowPara3206" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="dotfiles"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:11.09920979px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="254.40289"
+       y="447.41092"
+       id="text3136"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/joedicastro/code/furtivus/logo/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3138"
+         x="254.40289"
+         y="447.41092"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">.bash_history</tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="461.28494"
+         id="tspan3140"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">.bash_profile</tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="475.15894"
+         id="tspan3142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">.bashrc</tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="489.03296"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
+         id="tspan3164">.config</tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="502.90698"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan3168">.emacs</tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="516.78101"
+         id="tspan3146"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold">.fonts</tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="530.65497"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
+         id="tspan4069">.gnupg</tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="544.52899"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
+         id="tspan4071">.local</tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="558.40302"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4061">.profile</tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="572.27704"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4065">.<tspan
+   style="font-weight:bold;fill:#333333;-inkscape-font-specification:DejaVu Sans Mono Bold"
+   id="tspan4073">ssh</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="586.15106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4067">.tmux.conf</tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="600.02502"
+         id="tspan3148"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold">.vim</tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="613.89905"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan3182">.vimrc</tspan><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="627.77307"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
+         id="tspan3178" /><tspan
+         sodipodi:role="line"
+         x="254.40289"
+         y="641.64709"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#333333;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
+         id="tspan3180" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="shadow"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3291"
+       d="m 208.05661,423.19047 0,207.59375 142.59375,0 0,-207.59375 z m 88.34375,7.625 c 7.21592,1.9e-4 14.60132,0.64251 22.1875,1.9375 7.58595,1.29537 14.42526,3.41477 20.53125,6.375 l -5.8125,27.78125 c -4.25573,-1.48005 -9.61795,-2.95713 -16.09375,-4.4375 -6.291,-1.66507 -12.29554,-2.49984 -18.03125,-2.5 -3.14554,1.6e-4 -6.22717,0.25758 -9.1875,0.8125 -2.77548,0.55524 -5.24852,1.7749 -7.46875,3.625 -2.03537,1.85042 -3.70489,4.51591 -5,8.03125 -1.29526,3.33062 -1.93757,7.79311 -1.9375,13.34375 l 0,6.9375 53.5625,0 0,28.28125 -53.5625,0 0,102.15625 -34.4375,0 0,-102.15625 -28.5625,0 0,-28.28125 28.5625,0 0,-7.5 c -4e-5,-10.54634 1.47704,-19.24762 4.4375,-26.09375 3.1454,-7.03082 7.31922,-12.5855 12.5,-16.65625 5.18067,-4.25542 11.12024,-7.20958 17.78125,-8.875 6.66086,-1.85007 13.50017,-2.78106 20.53125,-2.78125 z"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4091)"
+       sodipodi:nodetypes="cccccccccccccccccccccccccscccc"
+       inkscape:export-filename="/home/joedicastro/code/furtivus/logo/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.92493412,0,0,0.92493412,27.928052,39.498245)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="cutout"
+     style="display:inline">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.92493409;display:inline"
+       d="m 202.50971,417.68921 0,216.98377 339.07506,0 0,-216.98377 z m 97.43603,18.15183 c 6.67425,1.8e-4 13.50525,0.59428 20.52197,1.79206 7.0165,1.19814 13.34242,3.15844 18.99005,5.89646 l -5.37618,25.69583 c -3.93626,-1.36895 -8.89597,-2.73515 -14.88565,-4.1044 -5.81876,-1.54008 -11.37257,-2.31219 -16.67772,-2.31233 -2.90942,1.4e-4 -5.75972,0.23824 -8.49783,0.7515 -2.56714,0.51356 -4.85454,1.64167 -6.90811,3.35289 -1.88258,1.71152 -3.42677,4.17692 -4.62467,7.42838 -1.19803,3.0806 -1.79212,7.20811 -1.79206,12.34209 l 0,6.41673 49.54179,0 0,26.15829 -49.54179,0 0,94.4878 -31.85241,0 0,-94.4878 -26.41844,0 0,-26.15829 26.41844,0 0,-6.93701 c -4e-5,-9.75467 1.36616,-17.80278 4.10439,-24.135 2.90929,-6.50304 6.7698,-11.64076 11.56168,-15.40593 4.79178,-3.93598 10.28549,-6.66839 16.44648,-8.20879 6.16086,-1.71119 12.48677,-2.5723 18.99006,-2.57248 z"
+       id="rect3192"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccscccc"
+       inkscape:export-filename="/home/joedicastro/code/furtivus/logo/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="text shadow"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:354.08392334px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4599);font-family:Sans"
+       x="280.96783"
+       y="618.29425"
+       id="text3194-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/joedicastro/code/furtivus/logo/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.92493412,0,0,0.92493412,27.928052,39.498245)"><tspan
+         sodipodi:role="line"
+         id="tspan3196-6"
+         x="280.96783"
+         y="618.29425"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4d4d4d;stroke:none;font-family:Ubuntu Mono for Powerline;-inkscape-font-specification:Ubuntu Mono for Powerline Bold"><tspan
+           style="font-size:74.45051575px;fill:#4d4d4d;stroke:none"
+           id="tspan3198-1">urtivus</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="text"
+     style="display:inline">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4565"
+       y="611.37964"
+       x="287.80478"
+       style="font-size:327.50430298px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/joedicastro/code/furtivus/logo/logo.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;stroke:none;font-family:Ubuntu Mono for Powerline;-inkscape-font-specification:Ubuntu Mono for Powerline Bold"
+         y="611.37964"
+         x="287.80478"
+         id="tspan4567"
+         sodipodi:role="line"><tspan
+           id="tspan4569"
+           style="font-size:68.86182404px;fill:#ffffff;stroke:none">urtivus</tspan></tspan></text>
+  </g>
+</svg>
