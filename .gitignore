@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+*.~
+
+#rope
+.ropeproject/
+
+# vagrant
+.vagrant/
+
+# auxiliary fileu
+aux/
