@@ -1,11 +1,14 @@
 
-![logo](./logo/logo.png "furtivus logo")
+.. figure:: ./logo/logo.png
 
-> __Furtivus__:
 
-> *From the Latin, furtivus, meaning secret, hidden.*
+    **Furtivus**:
 
-# furtivus
+    *From the Latin, furtivus, meaning secret, hidden.*
+
+
+furtivus
+========
 
 There's a lot of ways to manage your dotfiles in your computer. Let's get a
 common and safe one: you make your git dotfiles repository based on a folder
@@ -19,5 +22,5 @@ already symlinks pointing to the dotfiles?
 Furtivus will try to solve those situations. The main idea behind this
 approach is don't mess with your current dotfiles if you don't want and manage
 your dotfiles easy and properly.
- 
- 
+
+
